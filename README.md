@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wild-born
+- 👋 Hi, I’m @ChethanaSGowda
 - 👀 I’m interested in Developing software
 - 🌱 I’m currently learning Full stack developing
 - 💞️ I’m looking to collaborate on ...
