@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ChethanaSGowda
 - 👀 I’m interested in Developing software
 - 🌱 I’m currently learning Full stack developing
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chethana.s.gowda143@gmail.com
 
 <!---
